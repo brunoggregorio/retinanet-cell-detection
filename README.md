@@ -11,6 +11,36 @@ This repository was tested using:
 * Tensorflow-gpu 1.14
 * OpenCV 4.1.1.26
 
+## Data augmentation
+We applied some techniques for data augmentation, including the PSF kernels to simulate image motion:
+* Gaussian
+* Line and curve
+* Airy disk pattern
+* Smooth elastic transform
+
+ <div class="row">
+  <div class="column">
+    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_3a.png" alt="Gaussian kernel example." style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_3b.png" alt="Line kernel example." style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_3c.png" alt="Curve kernel example." style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_4b.png" alt="Airy disk pattern." style="width:100%">
+  </div>
+</div> 
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_5a.png" alt="Example of an original image." style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_5b.png" alt="Image after deformable elastic transform." style="width:100%">
+  </div>
+
 #### Backbones
  Visualizations of network structures (tools from [ethereon](http://ethereon.github.io/netscope/quickstart.html)):
 
