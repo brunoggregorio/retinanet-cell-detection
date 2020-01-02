@@ -1,0 +1,8 @@
+<map id="mynet.data_generator.generator.Generator" name="mynet.data_generator.generator.Generator">
+<area shape="rect" id="node3" href="$classmynet_1_1data__generator_1_1coco_1_1CocoGenerator.html" title="Generate data from the COCO dataset. " alt="" coords="437,5,642,47"/>
+<area shape="rect" id="node4" href="$classmynet_1_1data__generator_1_1csv__generator_1_1CSVGenerator.html" title="Generate data for a custom CSV dataset. " alt="" coords="443,71,636,112"/>
+<area shape="rect" id="node5" href="$classmynet_1_1data__generator_1_1ivm_1_1IVMGenerator.html" title="Generate data for the IVM dataset. " alt="" coords="439,136,639,177"/>
+<area shape="rect" id="node6" href="$classmynet_1_1data__generator_1_1kitti_1_1KittiGenerator.html" title="Generate data for a KITTI dataset. " alt="" coords="439,201,640,243"/>
+<area shape="rect" id="node7" href="$classmynet_1_1data__generator_1_1open__images_1_1OpenImagesGenerator.html" title="mynet.data_generator.open\l_images.OpenImagesGenerator" alt="" coords="425,267,653,308"/>
+<area shape="rect" id="node8" href="$classmynet_1_1data__generator_1_1pascal__voc_1_1PascalVocGenerator.html" title="Generate data for a Pascal VOC dataset. " alt="" coords="433,332,646,373"/>
+</map>

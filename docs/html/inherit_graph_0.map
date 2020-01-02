@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classinput__encoder_1_1DegenerateBoxError.html" title="input_encoder.Degenerate\lBoxError" alt="" coords="192,5,387,47"/>
+<area shape="rect" id="node3" href="$classmynet__ssd__dt-aug_1_1data__generator_1_1object__detection__2d__data__generator_1_1DatasetError.html" title="mynet_ssd_dt&#45;aug.data\l_generator.object_detection\l_2d_data_generator.DatasetError" alt="" coords="171,71,408,127"/>
+<area shape="rect" id="node4" href="$classmynet__ssd__dt-aug_1_1data__generator_1_1object__detection__2d__data__generator_1_1DegenerateBatchError.html" title="mynet_ssd_dt&#45;aug.data\l_generator.object_detection\l_2d_data_generator.DegenerateBatchError" alt="" coords="140,151,439,207"/>
+</map>

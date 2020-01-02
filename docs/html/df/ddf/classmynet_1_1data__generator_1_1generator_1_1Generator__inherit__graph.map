@@ -1,0 +1,8 @@
+<map id="mynet.data_generator.generator.Generator" name="mynet.data_generator.generator.Generator">
+<area shape="rect" id="node3" href="$d0/d5f/classmynet_1_1data__generator_1_1coco_1_1CocoGenerator.html" title="mynet.data_generator.coco.\lCocoGenerator" alt="" coords="517,5,722,47"/>
+<area shape="rect" id="node4" href="$dd/dcb/classmynet_1_1data__generator_1_1csv__generator_1_1CSVGenerator.html" title="mynet.data_generator.csv\l_generator.CSVGenerator" alt="" coords="523,71,716,112"/>
+<area shape="rect" id="node5" href="$d8/d13/classmynet_1_1data__generator_1_1ivm_1_1IVMGenerator.html" title="mynet.data_generator.ivm.\lIVMGenerator" alt="" coords="519,136,719,177"/>
+<area shape="rect" id="node6" href="$d3/d03/classmynet_1_1data__generator_1_1kitti_1_1KittiGenerator.html" title="mynet.data_generator.kitti.\lKittiGenerator" alt="" coords="519,201,720,243"/>
+<area shape="rect" id="node7" href="$d8/df3/classmynet_1_1data__generator_1_1open__images_1_1OpenImagesGenerator.html" title="mynet.data_generator.open\l_images.OpenImagesGenerator" alt="" coords="505,267,733,308"/>
+<area shape="rect" id="node8" href="$de/dd0/classmynet_1_1data__generator_1_1pascal__voc_1_1PascalVocGenerator.html" title="mynet.data_generator.pascal\l_voc.PascalVocGenerator" alt="" coords="513,332,726,373"/>
+</map>
