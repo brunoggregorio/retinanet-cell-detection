@@ -18,28 +18,45 @@ We applied some techniques for data augmentation, including the PSF kernels to s
 * Airy disk pattern
 * Smooth elastic transform
 
- <div class="row">
-  <div class="column">
-    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_3a.png" alt="Gaussian kernel example." style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_3b.png" alt="Line kernel example." style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_3c.png" alt="Curve kernel example." style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_4b.png" alt="Airy disk pattern." style="width:100%">
-  </div>
-</div> 
+<table width="100%" border="0" cellpadding="5">
+	<tr>
+		<td align="center" valign="center">
+		<img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_3a.png" alt="description here" />
+		<br />
+			Gaussian kernel example.
+		</td>
+		<td align="center" valign="center">
+		<img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_3b.png" alt="description here" />
+		<br />
+			Line kernel example.
+		</td>
+		<td align="center" valign="center">
+		<img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_3c.png" alt="description here" />
+		<br />
+			Curve kernel example.
+		</td>
+		<td align="center" valign="center">
+		<img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_4b.png" alt="description here" />
+		<br />
+			Airy disk pattern.
+		</td>
+	</tr>
+</table>
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_5a.png" alt="Example of an original image." style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_5b.png" alt="Image after deformable elastic transform." style="width:100%">
-  </div>
+<table width="100%" border="0" cellpadding="5">
+	<tr>
+		<td align="center" valign="center">
+		<img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_5a.png" alt="Example of an original image" />
+		<br />
+			Example of an original image.
+		</td>
+		<td align="center" valign="center">
+		<img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/Fig_5b.png" alt="Image after deformable elastic transform" />
+		<br />
+			Image after deformable elastic transform.
+		</td>
+	</tr>
+</table>
 
 #### Backbones
  Visualizations of network structures (tools from [ethereon](http://ethereon.github.io/netscope/quickstart.html)):
