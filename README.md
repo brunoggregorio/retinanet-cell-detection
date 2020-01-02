@@ -58,6 +58,16 @@ We applied some techniques for data augmentation, including the PSF kernels to s
 	</tr>
 </table>
 
+## Results
+Some of our results for leukocyte detection in Intravital Microscopy videos can bee seen bellow:
+
+<p align="center">
+	<img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/video1.gif" alt="Example result of RetinaNet."/>
+	<img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/video2.gif" alt="Example result of RetinaNet."/>
+	<img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/video3.gif" alt="Example result of RetinaNet."/>
+	<img src="https://github.com/brunoggregorio/retinanet-cell-detection/blob/master/images/video4.gif" alt="Example result of RetinaNet."/>
+</p>
+
 #### Backbones
  Visualizations of network structures (tools from [ethereon](http://ethereon.github.io/netscope/quickstart.html)):
 
